@@ -1,0 +1,35 @@
+#title {
+    background-color: rgb(156, 146, 133);
+    margin-top: 0;
+
+    padding-bottom: 50px;
+    padding-top: 50px;
+    color: white;
+    float: left;
+    font-size: 16px;
+    width: 75%;
+
+}
+
+.lol1 {
+    padding-right: 40px;
+    color: white;
+    
+}
+
+.lol2 {
+    color: white;
+    
+}
+
+.nav-bar {
+    background-color: rgb(156, 146, 133);
+
+    padding-bottom: 50px;
+    margin-bottom: 0;
+    float: right;
+
+    width: 25%;
+    padding-top: 100px;
+    padding-bottom: 62px;
+}
